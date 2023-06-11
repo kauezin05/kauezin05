@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I'm currently studying the third module of Systems Development at ETEC HAS
-- 🌱 I’m learning Angular, Bootstrap, React, Java, Arduino and C#
+- 🔭 I'm currently studying Systems Development at FIAP
+- 🌱 I’m learning HTML, CSS, JavaScript, Python, JAVA
 - 😄 Pronouns: He / His
 - ⚡ Hobby: Studying programming languages and playing videogames
 
